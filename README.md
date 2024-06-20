@@ -6,4 +6,4 @@ I concatenate prompts with correct and incorrect answers, respectively, feed the
 
 For GPT-2-xl with 48 layers, I find that attention heads between layers 5-18 show a prediction accuracy of truthfulness of up to 74%. For MLPs, I find that prediction accuracy peaks between layers 10-20 but then - surprisingly - monotonically declines for the remaining layers.
 
-A great resource for collectiong model internals is this [post](https://web.stanford.edu/~nanbhas/blog/forward-hooks-pytorch) 
+A great resource for collectiong model internals is this [post](https://web.stanford.edu/~nanbhas/blog/forward-hooks-pytorch).
